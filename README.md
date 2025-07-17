@@ -16,6 +16,7 @@ This React component generates QR codes from user-provided text or URLs.
     ```bash
     git clone <repository_url>
     ```
+    
 
 2.  **Install dependencies:**
 
